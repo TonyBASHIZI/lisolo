@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "283238140874",
+    "firebase_url": "https://lisolo-ed5a1.firebaseio.com",
+    "project_id": "lisolo-ed5a1",
+    "storage_bucket": "lisolo-ed5a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283238140874:android:ab65c7b4208de912",
+        "android_client_info": {
+          "package_name": "com.lisolo.lisolo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283238140874-iu92jfa7j3ummfc4anvkd52sghiavnrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYBWbjKbbC9Qq5wZMZje4UjPUVSjbqChU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
