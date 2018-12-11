@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Lisolo.iml" filepath="$PROJECT_DIR$/Lisolo.iml" />
+      <module fileurl="file://C:\projet\lisolo\Lisolo.iml" filepath="C:\projet\lisolo\Lisolo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\projet\lisolo\app\app.iml" filepath="C:\projet\lisolo\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lisolo.iml" filepath="$PROJECT_DIR$/lisolo.iml" />
     </modules>
   </component>
 </project>
